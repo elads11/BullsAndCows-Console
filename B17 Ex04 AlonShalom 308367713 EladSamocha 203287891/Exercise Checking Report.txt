@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 4
+First Student Details.: 308367713 - Alon Shalom
+Second Student Details: 203287891 - Elad Samocha 
+Delivery Date.........: 2 - June - 2017
+Delivered In Delay....: yes
+Delay Reason..........: Dealing with many other assignments
+Visual Studio Version.: 2017
+Comments..............: From Page 4 of the assignment we got the impression that the method "Display Version" should be treated differently from the other methods and not be placed on the same application with the other methods.
+========================End Exercise Checking Report========================
